@@ -1,0 +1,27 @@
+0.5 - Unreleased
+================
+
+XXX
+
+0.4 - 2010-05-10
+================
+
+- added `module_name` in the Plugin class
+- cleanup, fixed typo
+- added `register_file`
+
+0.3 - 2009-05-01
+================
+
+- Fixed packages in setup.py
+
+0.2 - 2009-05-01
+================
+
+- added the consume_entry_points option.
+
+0.1 - 2009-05-01
+================
+
+- initial release
+
